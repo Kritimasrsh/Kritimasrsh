@@ -1,5 +1,5 @@
-# 💫 About Me:
-Frontend Developer | Backend Developer | Web Developer
+#  About Me:
+Software Developer | Web Developer
 
 
 ## 🌐 Socials:
